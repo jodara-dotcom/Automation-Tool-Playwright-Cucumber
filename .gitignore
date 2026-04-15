@@ -43,8 +43,6 @@ node_modules/
 jspm_packages/
 
 # TypeScript build artifacts
-*.js
-*.d.ts
 dist/
 tmp/
 out/
