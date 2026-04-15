@@ -83,4 +83,4 @@ reports/
 
 # Misc
 .DS_Store
-.vscode/ # Puedes ignorar esto si no quieres compartir la configuración de VS Code
+.vscode/
